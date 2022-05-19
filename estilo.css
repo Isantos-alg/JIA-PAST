@@ -105,13 +105,12 @@ input :checked ~ label{
 }
 
 #logo{
-  height: 105px;
+  height: 104px;
   width: 123px;
-  float: right;
-  margin-top: 25px;
   background-image: url("Img/logo.png");
   background-size: 100%;
-  margin-right: 300px;
+  margin: auto;
+  margin-top: 25px;
 }
 
 .facebook{

@@ -549,9 +549,10 @@ border-spacing: 30px;
   background-position: center;
 }
 
-#pc{
+#cp{
   background-image: url("Img/fr/a/c/plenan.png");
   background-position: bottom;
+  background-size: cover;
 }
 
 #mc{
